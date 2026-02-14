@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Vasha Edition",
+      "date": "2026-03-15",
+      "description": "Booking Fee: KSh 2400. Includes transport, drinking water, team building, photography, birthday cake and colour splash.",
+      "type": "upcoming",
+      "category": "roadtrip",
+      "image": "images/vasha.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Olkaria & Geothermal SPA – Hell’s Gate",
+      "date": "2026-02-21",
+      "description": "Booking Fee: KSh 2850. Includes transport to & fro, Hell’s Gate entrance fee, guide fee, team building activities, Zumba dance session, rock exploration, snacks, drinking water and swimming at geothermal spa.",
+      "type": "upcoming",
+      "category": "travel",
+      "image": "images/olkaria.jpeg"
+    }
+  ]
+}
