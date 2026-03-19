@@ -397,7 +397,7 @@ section {
 
 .about-img {
     height: 300px;
-    width: 50%;
+    width: 95%;
     border-radius: var(--radius-lg);
 }
 
@@ -938,7 +938,7 @@ section {
 }
 
 .gallery-item:hover .image-placeholder img {
-    transform: scale(1.08);
+    transform: scale(1.02);
 }
 
 .gallery-item:hover .image-placeholder {
@@ -1425,12 +1425,12 @@ section {
         display: flex;
         position: fixed;
         top: 0;
-        right: -50%;
+        right: -100%;
         flex-direction: column;
         background-color: var(--color-white);
-        width: 100%;
-        max-width: 350px;
-        height: 100vh;
+        width: 80%;
+        max-width: 250px;
+        height: 95vh;
         text-align: left;
         transition: right 0.3s ease;
         box-shadow: var(--shadow-strong);
@@ -1533,4 +1533,3 @@ section {
         padding: var(--space-md);
     }
 }
-
